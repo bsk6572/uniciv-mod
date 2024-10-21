@@ -1,8 +1,8 @@
 [
 	{
-		"name": "하르파스툼",
+		"name": "Harupastorm",
 		"replaces": "Garden",
-		"uniqueTo": "몬드",
+		"uniqueTo": "Mond",
 		"hurryCostModifier": 25,
 		"uniques": ["[+30]% Great Person generation [in this city]"],		
 		"happiness": 1,
@@ -11,9 +11,9 @@
 		"requiredTech": "Theology"
 	},
 	{
-		"name": "다운와이너리",
+		"name": "Dawn winery",
 		"replaces": "Water Mill",
-		"uniqueTo": "몬드",
+		"uniqueTo": "Mond",
 		"maintenance": 5,
 		"food": 2,
 		"production": 2,
