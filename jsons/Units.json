@@ -31,5 +31,20 @@
 		"attackSound": "arrow"
 		"upgradesTo": "Composite Bowman",		
 	},
+	{
+		"name": "Millelith",
+		"unitType": "Sword",
+		"uniqueTo": "Liyue",		
+		"movement": 2,
+		"strength": 17,	
+		"replaces": "Pikeman",		
+		"cost": 90,
+		"promotions": ["Formation I"],
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"		
+	}
 ]
 
