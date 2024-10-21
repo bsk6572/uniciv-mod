@@ -108,4 +108,32 @@
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"
 	},	
+	{
+		"name": "Opera Epiclese",
+		"replaces": "Opera House",
+		"uniqueTo": "Fontaine",
+		"culture": 4,
+		"production": 4,
+		"faith":2,
+		"specialistSlots": {"Artist": 3},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["[+1 production] from [Coast] tiles [in this city]"]
+	},
+
+	{
+		"name": "Recherche de Fontaine",
+		"replaces": "Public School",
+		"uniqueTo": "Fontaine",
+		"science": 3,
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "University",
+		"maintenance": 6,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 culture] per [3] population [in this city]"],
+		"requiredTech": "Scientific Theory"
+	}
+
 ]
