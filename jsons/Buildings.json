@@ -84,5 +84,28 @@
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
-	
+	{
+		"name": "Sumeru Akademiya",
+		"replaces": "University",
+		"uniqueTo": "Genshin Sumeru",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 40},
+		"specialistSlots": {"Scientist": 3},
+		"faith": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science, +2 faith] from [Jungle] tiles [in this city]", "[+2 Gold, +2 faith] from every [Fort] [in this city]"],
+		"requiredTech": "Education"
+	},	
+	{
+		"name": "Vanarana",
+		"replaces": "Water Mill",
+		"uniqueTo": "Genshin sumeru",
+		"food": 4,
+		"uniques": ["[+2 Food, +4 faith] from [Lakes] tiles [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"
+	},	
 ]
