@@ -45,6 +45,116 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"		
-	}
+	},
+	{
+		"name": "Samurai",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Inazuma",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Shock I", "Great Generals II", Amphibious],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Shuumatsuban",
+		"unitType": "Archery",
+		"uniqueTo": "Inazuma",
+		"movement": 4,
+		"strength": 16,
+		"rangedStrength": 12,
+		"replaces": "Crossbowman",
+		"range": 1
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Industrialization",
+		"uniques": ["Can move after attacking"]
+		"promotions": ["Ignore terrain cost", "Great Generals II"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Arataki Gang",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Inazuma",
+		"movement": 3,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": ["[+25]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Haka War Dance", Cover I, Amphibious]
+		"attackSound": "metalhit"
+	},	
+	{
+		"name": "Matra",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Genshin Sumeru",
+		"movement": 5,
+		"strength": 17,
+		"cost": 90,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+75]% Strength <vs [Mounted] units>", "[+1] Sight", "Withdraws before melee combat <with [60]% chance>"],
+		"promotions": ["Quick Study", "[Jaguar] ability", "Woodsman", "Pictish Courage", Amphibious]
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Forest Rangers",
+		"unitType": "Archery",
+		"uniqueTo": "Genshin Sumeru",
+		"movement": 3,
+		"strength": 12,
+		"rangedStrength": 18,
+		"replaces": "Crossbowman",
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Woodsman", "[Mohawk Warrior] ability"],
+		"attackSound": "crossbow"
+	},
+	{
+		"name": "Marechaussee Hunter",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Fontaine",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"requiredResource": "Iron",
+		"promotions": ["[Hussar] ability", "Amphibious", "Charge"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Champion Duelist",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Fontaine",
+		"movement": 5,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
+			"[+1] Sight"],
+		"requiredResource": "Iron",
+		"promotions": ["Quick Study", "Amphibious", "Home Sweet Home"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},	
 ]
 
