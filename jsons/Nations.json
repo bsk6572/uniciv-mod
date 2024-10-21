@@ -1,18 +1,18 @@
 [
 	{
-		"name": "몬드",
-		"leaderName": "진",
+		"name": "Mond",
+		"leaderName": "Jin",
 		"adjective": ["Mondstadtian"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "몬드에 온걸 환영해, 여행자.",
-		"startIntroPart2": "페보니우스 부기사단장 진이 당신을 환영할게",
+		"startIntroPart1": "Welcome to Mond, Foreigner.",
+		"startIntroPart2": "Deputy Commander favonius Jin will welcome you.",
 		
-		"declaringWar": "페보니우스 기사단은... 지지 않아.",
-		"attacked": "바람의 신 이름으로 당신을 처단한다!",
-		"defeated": "아아... 바르바토스시어...",
-		"introduction": "페보니우스 부기사단장 진이 당신을 환영할게",
+		"declaringWar": "The Favonious will never lose",
+		"attacked": "I punish you in the name of the God of Wind!",
+		"defeated": "Ah... Lord Barbatos...",
+		"introduction": "Deputy Commander favonius Jin will welcome you.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -29,10 +29,10 @@
 		
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniqueName": "윈드블룸 정신",
-		"uniques": ["Adopt [Representation] <upon discovering [Writing] technology>", [+1 Culture] from every [Pasture]],		
+		"uniqueName": "The Spirit of Windbloom",
+		"uniques": ["Adopt [Representation] <upon discovering [Writing] technology>", [+1 Culture] from every [Pasture]]		
 		"cities": ["Mond","Mondstadt","Starfell Valley","Stormbearer Point","Stormbearer Mountains","Starsnatch Cliff","Starfell Lake","Whispering Woods","Cider Lake","Thousand Winds Temple",
 			"Nameless Island","Galesong Hill","Windrise","Falcon Coast","Cape Oath","Musk Reef","Dadaupa Gorge","Windwail Highland","Dawn Winery","Springvale",
-			"Wolvendom","Brightcrown Mountains","Stormterror's Lair","Brightcrown Canyon","Dornman Port","Dandelion Sea",]
+			"Wolvendom","Brightcrown Mountains","Stormterror's Lair","Brightcrown Canyon","Dornman Port","Dandelion Sea"]
 	}
 ]
