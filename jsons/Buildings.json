@@ -46,4 +46,17 @@
 			"[+1 Food, +1 Production] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]" ],
 		"requiredTech": "Optics"
 	},
+	{
+		"name": "Jade chamber",
+		"replaces": "Palace",
+		"uniqueTo": "Liyue",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 6,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	}	
 ]
