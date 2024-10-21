@@ -34,7 +34,7 @@
 		"cities": ["Mond","Mondstadt","Starfell Valley","Stormbearer Point","Stormbearer Mountains","Starsnatch Cliff","Starfell Lake","Whispering Woods","Cider Lake","Thousand Winds Temple",
 			"Nameless Island","Galesong Hill","Windrise","Falcon Coast","Cape Oath","Musk Reef","Dadaupa Gorge","Windwail Highland","Dawn Winery","Springvale",
 			"Wolvendom","Brightcrown Mountains","Stormterror's Lair","Brightcrown Canyon","Dornman Port","Dandelion Sea"]
-	}
+	},
 	{
 		"name": "Liyue",
 		"leaderName": "Zhongli",
@@ -70,5 +70,116 @@
 		"cities": ["Liyue Harbor","Mt. Tianheng","Chasm","Chenyu Vale","Qiongji Estuary","Guili Plains","Luhua Pool","Mingyun Village","Yaoguang Shoal","Lisha",
 			"Dunyu","Lingju Pass","Qingxu Pool","Minlin","Qingyun Peak","Nantianmen","Mt. Aocang","Jueyun Karst","Tianqiu Valley","Cuijue Slope",
 			"Mt. Hulao","Huaguang","Bishui Plain","Qingce Village","Sal Terrae","Wangshu Inn"]
+	},	
+
+
+	{
+		"name": "Genshin Sumeru",
+		"leaderName": "Nahida",
+		"adjective": ["Sumerian"],
+		"startBias": ["Grassland", "Hill"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Welcome to Sumeru, Foreigner.",
+		"startIntroPart2": "Nahida will welcome you.",
+		
+		"declaringWar": "Sumeru will never lose",
+		"attacked": "I punish you in the name of the God of grass!",
+		"defeated": "umm...",
+		"introduction": "Commander Nahida will welcome you.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		
+		"outerColor": [18, 84, 30],
+		"innerColor": [240, 199, 0],
+		"uniqueName": "Branches of the world tree",
+		"uniques": ["[-10]% Unhappiness from [Population] [in all cities]", "[+2 Science] from every [Trading Post, Camp, Fort]"]		
+		"cities": ["Sumeru City","Port Ormos","Lokapala Jungle","Alcazarzaray","Chatrakam Cave","Mawtiyima Forest","Bayda Harbor","Ardravi Valley","Yazadaha Pool","Vimara Village",
+			"Devantaka Mountain","Ashavan Realm","Pardis Dhyai","Apam Woods","Yasna Monument","Ruins of Dahri","Caravan Ribat","Vissudha Field","Fane of Ashvattha","Vanarana",
+			"Avidya Forest","Gandharva Ville","Gandha Hill","Chinvat Ravine","Dharma Forest"]
+	},		
+{
+		"name": "Fontaine",
+		"leaderName": "Furina",
+		"adjective": ["Fontainian"],
+		"startBias": ["Grassland", "Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Welcome to Fontaine, Foreigner.",
+		"startIntroPart2": "I will welcome you.",
+		
+		"declaringWar": "Fontaine will never lose",
+		"attacked": "I punish you in the name of the God of water!",
+		"defeated": "umm...",
+		"introduction": "Commander Nahida will welcome you.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		
+		"outerColor": [68, 88, 255],
+		"innerColor": [240, 199, 244],
+		"uniqueName": "Theater and Science",
+		"uniques": ["[+10]% [Science] [in all cities]", "[+1 Culture] from every [Luxury resource]"]		
+		"cities": ["Fontaine","Mont Esus","Erinnyes","Marcotte Station","Chemin de L'Espoir","Annapausis","Narzissenkreuz Kingdom","Salacia Plain","Institute of Natural Philosophy","Thalatta",
+			"Belleau Region","Romaritime Harbor","Mont Automnequi","Poisson","Beryl Region","Elynas","Beryl Mountain","Merusea Village","Foamy Home","Elton Trench",
+			"Liffey Region","Fortress of Meropide","Fontaine Research Institute","Academic Assembly Hall","Materials Office","Central Laboratory Ruins"]
+	},		
+
+{
+		"name": "Inazuma",
+		"leaderName": "Raiden shogun",
+		"adjective": ["Inazumian"],
+		"startBias": ["Grassland", "Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Welcome to Inazuma, Foreigner.",
+		"startIntroPart2": "I will welcome you.",
+		
+		"declaringWar": "Inazuma will never lose",
+		"attacked": "I punish you in the name of the God of throne!",
+		"defeated": "umm...",
+		"introduction": "Commander Nahida will welcome you.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		
+		"outerColor": [74, 0, 108],
+		"innerColor": [40, 9, 44],
+		"uniqueName": "Musou No hitotachi",
+		"uniques": ["New [Melee] units start with [2] Experience [in all cities]", "No damage penalty for wounded units <for [non-[Air]] units>"]		
+		"cities": ["Inazuma","Kamisato Estate","Ritou","Mt. Yougou","Grand Narukami Shrine","Chinju Forest","Araumi","Konda Village","Byakko Plain","Amakane Island",
+			"Kannazuka","Tatarasuna","Kujou Encampment","Yashiori Island","Nazuchi Beach","Higi Village","Musoujin Gorge","Fort Mumei","Jakotsu Mine","Watatsumi Island",
+			"Mouun Shrine","Bourou Village","Suigetsu Pool","Seirai Island","Seiraimaru","Tsurumi Island"]
 	}	
 ]
