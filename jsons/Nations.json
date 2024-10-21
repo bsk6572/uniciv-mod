@@ -66,7 +66,7 @@
 		"outerColor": [204, 135, 11],
 		"innerColor": [240, 199, 0],
 		"uniqueName": "Land of contract",
-		"uniques": ["Gain a free [Market] [in all coastal cities]", "[+2 Production] from every [Trading Post]"]		
+		"uniques": ["Gain a free [Market] [in all coastal cities]", "[+1 Production] from every [Trading Post]"]		
 		"cities": ["Liyue Harbor","Mt. Tianheng","Chasm","Chenyu Vale","Qiongji Estuary","Guili Plains","Luhua Pool","Mingyun Village","Yaoguang Shoal","Lisha",
 			"Dunyu","Lingju Pass","Qingxu Pool","Minlin","Qingyun Peak","Nantianmen","Mt. Aocang","Jueyun Karst","Tianqiu Valley","Cuijue Slope",
 			"Mt. Hulao","Huaguang","Bishui Plain","Qingce Village","Sal Terrae","Wangshu Inn"]
