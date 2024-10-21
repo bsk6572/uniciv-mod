@@ -58,7 +58,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"promotions": ["Shock I", "Great Generals II", Amphibious],
+		"promotions": ["Shock I", "Great Generals II", "Amphibious"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -90,7 +90,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"uniques": ["[+25]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Haka War Dance", Cover I, Amphibious]
+		"promotions": ["Haka War Dance", "Cover I", "Amphibious"]
 		"attackSound": "metalhit"
 	},	
 	{
@@ -105,7 +105,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+75]% Strength <vs [Mounted] units>", "[+1] Sight", "Withdraws before melee combat <with [60]% chance>"],
-		"promotions": ["Quick Study", "[Jaguar] ability", "Woodsman", "Pictish Courage", Amphibious]
+		"promotions": ["Quick Study", "[Jaguar] ability", "Woodsman", "Pictish Courage", "Amphibious"]
 		"attackSound": "metalhit"
 	},
 	{
