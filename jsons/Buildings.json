@@ -1,25 +1,24 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "하르파스툼",
+		"replaces": "Garden",
+		"uniqueTo": "몬드",
+		"hurryCostModifier": 25,
+		"uniques": ["[+30]% Great Person generation [in this city]"],		
+		"happiness": 1,
+		"culture": 1,
+		"maintenance": 3,
+		"requiredTech": "Theology"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "다운와이너리",
+		"replaces": "Water Mill",
+		"uniqueTo": "몬드",
+		"maintenance": 5,
+		"food": 2,
+		"production": 2,
+		"culture": 4,		
+		"hurryCostModifier": 25,
+		"requiredTech": "The Wheel"
 	}
 ]
