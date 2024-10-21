@@ -20,7 +20,7 @@
 		"culture": 4,		
 		"hurryCostModifier": 25,
 		"requiredTech": "The Wheel"
-	}
+	},
 	{
 		"name": "Blackcliff Forge",
 		"replaces": "Forge",
@@ -34,7 +34,7 @@
 		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
 			"[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
-	}	
+	},	
 	{
 		"name": "Salt of the earth",
 		"replaces": "Lighthouse",
@@ -58,5 +58,31 @@
 		"cityStrength": 2,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
-	}	
+	},	
+	{
+		"name": "Tenshukaku",
+		"replaces": "Palace",
+		"uniqueTo": "Inazuma",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 3,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
+	{
+		"name": "Grand Narukami Shrine",
+		"replaces": "Grand Temple",
+		"uniqueTo": "Inazuma",		
+		"cost": 65,
+		"culture": 8,
+		"faith": 12,
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
+	},
+	
 ]
