@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "The Spirit of Windbloom",
-		"uniques": ["Free Social Policy <upon discovering [Writing] technology>, [+1 Culture] from every [Pasture]"]		
+		"uniques": ["Free Social Policy <upon discovering [Writing] technology>", "[+1 Culture] from every [Pasture]"]		
 		"cities": ["Mond","Mondstadt","Starfell Valley","Stormbearer Point","Stormbearer Mountains","Starsnatch Cliff","Starfell Lake","Whispering Woods","Cider Lake","Thousand Winds Temple",
 			"Nameless Island","Galesong Hill","Windrise","Falcon Coast","Cape Oath","Musk Reef","Dadaupa Gorge","Windwail Highland","Dawn Winery","Springvale",
 			"Wolvendom","Brightcrown Mountains","Stormterror's Lair","Brightcrown Canyon","Dornman Port","Dandelion Sea"]
