@@ -21,4 +21,29 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "The Wheel"
 	}
+	{
+		"name": "Blackcliff Forge",
+		"replaces": "Forge",
+		"uniqueTo": "Liyue",
+		"maintenance": 1,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},	
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredTech": "Metal Casting",
+		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
+	}	
+	{
+		"name": "Salt of the earth",
+		"replaces": "Lighthouse",
+		"uniqueTo": "Liyue",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Must be next to [Coast]", "[+1 Food, +1 Production] from [Ocean] tiles [in this city]",
+			"[+1 Food, +1 Production] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]" ],
+		"requiredTech": "Optics"
+	},
 ]
