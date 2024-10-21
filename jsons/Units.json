@@ -1,17 +1,35 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "페보니우스 기사단",
+		"unitType": "Mounted",
+		"uniqueTo": "몬드",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 16,
+		"cost": 70,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles" ],
+		"hurryCostModifier": 20,
+		"promotions": ["Shock I"],
+		"attackSound": "metalhit"
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",		
 	}
+	{
+		"name": "정찰 기사",
+		"unitType": "Archery",
+		"uniqueTo": "몬드",		
+		"movement": 2,
+		"strength": 4,
+		"range": 2		
+		"rangedStrength": 5,		
+		"replaces": "Scout",		
+		"cost": 30,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "arrow"
+		"upgradesTo": "Composite Bowman",		
+	},
 ]
+
