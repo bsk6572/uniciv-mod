@@ -1,8 +1,8 @@
 [
 	{
-		"name": "페보니우스 기사단",
+		"name": "Favonious",
 		"unitType": "Mounted",
-		"uniqueTo": "몬드",
+		"uniqueTo": "Mond",
 		"replaces": "Horseman",
 		"movement": 3,
 		"strength": 16,
@@ -16,9 +16,9 @@
 		"obsoleteTech": "Chivalry",		
 	}
 	{
-		"name": "정찰 기사",
+		"name": "Phaser",
 		"unitType": "Archery",
-		"uniqueTo": "몬드",		
+		"uniqueTo": "Mond",		
 		"movement": 2,
 		"strength": 4,
 		"range": 2		
