@@ -104,7 +104,7 @@
 		"outerColor": [18, 84, 30],
 		"innerColor": [240, 199, 0],
 		"uniqueName": "Branches of the world tree",
-		"uniques": ["[-10]% Unhappiness from [Population] [in all cities]", "[+2 cullture] from every [Great Improvement]"]		
+		"uniques": ["[-10]% Unhappiness from [Population] [in all cities]", "[+2 culture] from every [Great Improvement]"]		
 		"cities": ["Sumeru City","Port Ormos","Lokapala Jungle","Alcazarzaray","Chatrakam Cave","Mawtiyima Forest","Bayda Harbor","Ardravi Valley","Yazadaha Pool","Vimara Village",
 			"Devantaka Mountain","Ashavan Realm","Pardis Dhyai","Apam Woods","Yasna Monument","Ruins of Dahri","Caravan Ribat","Vissudha Field","Fane of Ashvattha","Vanarana",
 			"Avidya Forest","Gandharva Ville","Gandha Hill","Chinvat Ravine","Dharma Forest"]
