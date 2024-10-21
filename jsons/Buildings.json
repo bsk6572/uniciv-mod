@@ -94,7 +94,7 @@
 		"specialistSlots": {"Scientist": 3},
 		"faith": 3,
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science, +2 faith] from [Jungle] tiles [in this city]", "[+2 Gold, +2 faith] from every [Fort] [in this city]"],
+		"uniques": ["[+2 Science], [+2 faith] from [Jungle] tiles [in this city]", "[+2 Gold], [+2 faith] from every [Fort] [in this city]"],
 		"requiredTech": "Education"
 	},	
 	{
@@ -102,7 +102,7 @@
 		"replaces": "Water Mill",
 		"uniqueTo": "Genshin sumeru",
 		"food": 4,
-		"uniques": ["[+2 Food, +4 faith] from [Lakes] tiles [in this city]"],
+		"uniques": ["[+2 Food], [+4 faith] from [Lakes] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"percentStatBonus": {"food": 15},
@@ -120,7 +120,6 @@
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
 		"requiredTech": "Acoustics",
-		"uniques": ["[+1 production] from [Coast] tiles [in this city]"]
 	},
 
 	{
@@ -130,9 +129,9 @@
 		"science": 3,
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "University",
-		"maintenance": 6,
+		"maintenance": 0,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 culture] per [3] population [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Gold] per [2] population [in this city]"],
 		"requiredTech": "Scientific Theory"
 	}
 
