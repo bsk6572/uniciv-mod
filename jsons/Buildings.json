@@ -100,7 +100,7 @@
 	{
 		"name": "Vanarana",
 		"replaces": "Water Mill",
-		"uniqueTo": "Genshin sumeru",
+		"uniqueTo": "Genshin Sumeru",
 		"food": 4,
 		"uniques": ["[+2 Food], [+4 faith] from [Lakes] tiles [in this city]"],
 		"hurryCostModifier": 25,
