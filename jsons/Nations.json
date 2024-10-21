@@ -77,7 +77,7 @@
 		"name": "Genshin Sumeru",
 		"leaderName": "Nahida",
 		"adjective": ["Sumerian"],
-		"startBias": ["Grassland", "Hill"],
+		"startBias": ["Grassland", "Jungle"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Welcome to Sumeru, Foreigner.",
