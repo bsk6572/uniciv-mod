@@ -73,7 +73,7 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Artillery",
-		"obsoleteTech": "Industrialization",
+		"obsoleteTech": "Dynamite",
 		"uniques": ["Can move after attacking"]
 		"promotions": ["Ignore terrain cost", "Great Generals II"],
 		"attackSound": "metalhit"
