@@ -26,7 +26,7 @@
 		"replaces": "Scout",		
 		"cost": 30,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["May upgrade to [Composite Bowman] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "arrow"
 		"upgradesTo": "Composite Bowman",		
@@ -98,14 +98,14 @@
 		"unitType": "Mounted",
 		"replaces": "Knight",
 		"uniqueTo": "Genshin Sumeru",
-		"movement": 5,
+		"movement": 4,
 		"strength": 17,
-		"cost": 90,
+		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+75]% Strength <vs [Mounted] units>", "[+1] Sight", "Withdraws before melee combat <with [60]% chance>"],
-		"promotions": ["Quick Study", "[Jaguar] ability", "Woodsman", "Pictish Courage", "Amphibious"]
+		"promotions": ["Quick Study", "[Jaguar] ability", "Pictish Courage", "Amphibious"]
 		"attackSound": "metalhit"
 	},
 	{
