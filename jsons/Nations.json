@@ -140,7 +140,7 @@
 		"outerColor": [68, 88, 255],
 		"innerColor": [240, 199, 244],
 		"uniqueName": "Theater and Science",
-		"uniques": ["[+10]% [Science] [in all cities]", "[+1] Movement <for [Water] units>"]		
+		"uniques": ["[+10]% [Science] [in all cities]", "[+1 faith] from every [Fishing Boats]"]		
 		"cities": ["Fontaine","Mont Esus","Erinnyes","Marcotte Station","Chemin de L'Espoir","Annapausis","Narzissenkreuz Kingdom","Salacia Plain","Institute of Natural Philosophy","Thalatta",
 			"Belleau Region","Romaritime Harbor","Mont Automnequi","Poisson","Beryl Region","Elynas","Beryl Mountain","Merusea Village","Foamy Home","Elton Trench",
 			"Liffey Region","Fortress of Meropide","Fontaine Research Institute","Academic Assembly Hall","Materials Office","Central Laboratory Ruins"]
