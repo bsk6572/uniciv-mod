@@ -128,11 +128,12 @@
 		"replaces": "Public School",
 		"uniqueTo": "Fontaine",
 		"science": 3,
+		"production": 5
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "University",
-		"maintenance": 5,
+		"maintenance": 2,
 		"hurryCostModifier": 0,
-		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 production] per [2] population [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Scientific Theory"
 	}
 
