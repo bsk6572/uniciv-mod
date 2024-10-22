@@ -130,7 +130,7 @@
 		"science": 3,
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "University",
-		"maintenance": 0,
+		"maintenance": 5,
 		"hurryCostModifier": 0,
 		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 production] per [2] population [in this city]"],
 		"requiredTech": "Scientific Theory"
