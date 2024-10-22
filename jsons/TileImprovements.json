@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Sumeru Fort",
+		"uniqueTo": "Genshin Sumeru",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"turnsToBuild": 5,
+		"techRequired": "Engineering",
+		"shortcutKey": "O"    
+		"production": 2,
+    "culture":1
+		"turnsToBuild": 4,
+		"uniques": ["[+1 Culture] for each adjacent [Sumeru Fort]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]", "Gives a defensive bonus of [50]%"],
+		"techRequired": "Construction",
+		"shortcutKey": "M"
+	},
+
+	{
+		"name": "Liyue Trading post",
+		"uniqueTo": "Liyue",    
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"gold": 2,
+    "production" : 1
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "T"
+	},
+  
+]
