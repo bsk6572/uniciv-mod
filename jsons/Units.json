@@ -67,7 +67,7 @@
 		"uniqueTo": "Inazuma",
 		"movement": 4,
 		"strength": 16,
-		"rangedStrength": 12,
+		"rangedStrength": 16,
 		"replaces": "Crossbowman",
 		"range": 1
 		"cost": 120,
