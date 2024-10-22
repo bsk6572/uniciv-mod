@@ -68,6 +68,7 @@
 		"science": 3,
 		"gold": 3,
 		"culture": 3,
+		"faith": 1		
 		"cityStrength": 2,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
@@ -92,9 +93,9 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 40},
 		"specialistSlots": {"Scientist": 3},
-		"faith": 3,
+		"faith": 3,		
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science], [+2 faith] from [Jungle] tiles [in this city]", "[+2 Gold], [+2 faith] from every [Fort] [in this city]"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+2 Gold], [+1 production] from every [Fort] [in this city]"],
 		"requiredTech": "Education"
 	},	
 	{
@@ -114,7 +115,7 @@
 		"uniqueTo": "Fontaine",
 		"culture": 4,
 		"production": 4,
-		"faith":2,
+		"faith":4,
 		"specialistSlots": {"Artist": 3},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
