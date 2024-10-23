@@ -100,7 +100,7 @@
 		"uniqueTo": "Genshin Sumeru",
 		"movement": 4,
 		"strength": 17,
-		"cost": 120,
+		"cost": 130,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
@@ -116,7 +116,7 @@
 		"strength": 12,
 		"rangedStrength": 18,
 		"replaces": "Crossbowman",
-		"cost": 120,
+		"cost": 130,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
@@ -155,6 +155,22 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
-	},	
+	},
+	{
+		"name": "Lumine",
+		"unitType": "Sword",
+		"uniqueTo": "Lumine",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 16,
+		"cost": 180,
+		"obsoleteTech": "Rifling",
+		"uniques": ["May upgrade to [Musketman] through ruins-like effects","Can move after attacking", "[+50]% Strength <vs [Gunpowder] units>", "[+50]% Strength <vs [Mounted] units>", "May Paradrop up to [9] tiles from inside friendly territory"]
+		"promotions": ["Drill I","Ignores terrain cost","Quick Study", "Cover I", "Cover II", "Mystic Blade","Formation I", "Amphibious"],
+		"requiredResource": "Iron",		
+		"upgradesTo": "Musketman",
+		"attackSound": "nonmetalhit"
+	}
+	
 ]
 
