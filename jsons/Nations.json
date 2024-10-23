@@ -175,7 +175,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		
 		"outerColor": [74, 0, 108],
-		"innerColor": [40, 9, 44],
+		"innerColor": [240, 209, 244],
 		"uniqueName": "Musou No hitotachi",
 		"uniques": ["New [Melee] units start with [20] Experience [in all cities]", "No damage penalty for wounded units <for [non-[Air]] units>"]		
 		"cities": ["Inazuma","Kamisato Estate","Ritou","Mt. Yougou","Grand Narukami Shrine","Chinju Forest","Araumi","Konda Village","Byakko Plain","Amakane Island",
