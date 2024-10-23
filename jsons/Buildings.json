@@ -128,13 +128,25 @@
 		"replaces": "Public School",
 		"uniqueTo": "Fontaine",
 		"science": 3,
-		"production": 3
+		"production": 3,
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "University",
 		"maintenance": 2,
 		"hurryCostModifier": 0,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Scientific Theory"
-	}
-
+	},
+	{
+		"name": "Serentia pot",
+		"replaces": "Garden",
+		"uniqueTo": "Lumine",
+		"hurryCostModifier": 25,
+		"uniques": ["[+50]% Great Person generation [in this city]"],		
+		"happiness": 1,
+		"culture": 1,
+		"production": 1,
+		"science": 1,
+		"maintenance": 2,
+		"requiredTech": "Theology"	
+	
 ]
