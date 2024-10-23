@@ -147,6 +147,7 @@
 		"production": 1,
 		"science": 1,
 		"maintenance": 2,
-		"requiredTech": "Theology"	
+		"requiredTech": "Theology"
+	}
 	
 ]
