@@ -214,7 +214,7 @@
 		"outerColor": [251,255,206],
 		"innerColor": [40, 9, 44],
 		"uniqueName": "Proof Of The Descender",
-		"uniques": ["[+100]% Yield from every [Great Improvement]", [+1 Food, +1 Production, +1 Science, +1 Gold, +1 Culture] [in all cities]]		
+		"uniques": ["[+100]% Yield from every [Great Improvement]", "[+1 Food, +1 Production, +1 Science, +1 Gold, +1 Culture] [in all cities]"]		
 		"cities": ["Celestia", "Paimon", "Amber", "Ayaka", "Jin", "Barbara", "Kayea", "Fischl", "Nahida", "Mu'alani", "Noel", "Diona", "Jhongli", "Keqing", "Miko", "Raiden",
 		"Yanfei", "Ganyu", "Surcrose", "Hutao", "Yun-jin", "Xiao", "Mabika", "Furina", "Ororon"]
 	}		
