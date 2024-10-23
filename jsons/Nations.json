@@ -39,7 +39,7 @@
 		"name": "Liyue",
 		"leaderName": "Zhongli",
 		"adjective": ["Liyian"],
-		"startBias": ["plains", "Coast"],
+		"startBias": ["Plains", "Coast"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Welcome to Liyue, Foreigner.",
@@ -159,7 +159,7 @@
 		"declaringWar": "Inazuma will never lose",
 		"attacked": "I punish you in the name of the God of throne!",
 		"defeated": "umm...",
-		"introduction": "Greeting.",
+		"introduction": "What's the matter?",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -181,5 +181,41 @@
 		"cities": ["Inazuma","Kamisato Estate","Ritou","Mt. Yougou","Grand Narukami Shrine","Chinju Forest","Araumi","Konda Village","Byakko Plain","Amakane Island",
 			"Kannazuka","Tatarasuna","Kujou Encampment","Yashiori Island","Nazuchi Beach","Higi Village","Musoujin Gorge","Fort Mumei","Jakotsu Mine","Watatsumi Island",
 			"Mouun Shrine","Bourou Village","Suigetsu Pool","Seirai Island","Seiraimaru","Tsurumi Island"]
-	}	
+	},	
+
+{
+		"name": "Lumine",
+		"leaderName": "Lumine",
+		"adjective": ["Luminian"],
+		"startBias": ["Plains", "Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Welcome to my world, Foreigner.",
+		"startIntroPart2": "I will welcome you.",
+		
+		"declaringWar": "I will never lose",
+		"attacked": "I will destroy you, bye.",
+		"defeated": "umm...",
+		"introduction": "Greeting.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		
+		"outerColor": [251,255,206],
+		"innerColor": [40, 9, 44],
+		"uniqueName": "Proof Of The Descender",
+		"uniques": ["[+100]% Yield from every [Great Improvement]", [+1 Food, +1 Production, +1 Science, +1 Gold, +1 Culture] [in all cities]]		
+		"cities": ["Celestia", "Paimon", "Amber", "Ayaka", "Jin", "Barbara", "Kayea", "Fischl", "Nahida", "Mu'alani", "Noel", "Diona", "Jhongli", "Keqing", "Miko", "Raiden",
+		"Yanfei", "Ganyu", "Surcrose", "Hutao", "Yun-jin", "Xiao", "Mabika", "Furina", "Ororon"]
+	}		
 ]
