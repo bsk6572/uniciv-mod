@@ -165,8 +165,8 @@
 		"strength": 16,
 		"cost": 180,
 		"obsoleteTech": "Rifling",
-		"uniques": ["May upgrade to [Musketman] through ruins-like effects","Can move after attacking", "[+50]% Strength <vs [Gunpowder] units>", "[+50]% Strength <vs [Mounted] units>", "May Paradrop up to [9] tiles from inside friendly territory"]
-		"promotions": ["Drill I","Ignores terrain cost","Quick Study", "Cover I", "Cover II", "Mystic Blade","Formation I", "Amphibious"],
+		"uniques": ["Ignores terrain cost", "May upgrade to [Musketman] through ruins-like effects","Can move after attacking", "[+50]% Strength <vs [Gunpowder] units>", "[+50]% Strength <vs [Mounted] units>", "May Paradrop up to [9] tiles from inside friendly territory"]
+		"promotions": ["Drill I","Quick Study", "Cover I", "Cover II", "Mystic Blade","Formation I", "Amphibious"],
 		"requiredResource": "Iron",		
 		"upgradesTo": "Musketman",
 		"attackSound": "nonmetalhit"
