@@ -81,7 +81,7 @@
 		"culture": 8,
 		"faith": 12,
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
-			"[+150]% Natural religion spread [in this city]", "Can only be built <in [Holy] cities>"],
+			"[+150]% Natural religion spread [in this city]", "Can only be built <in [Holy] cities>", "Free Social Policy"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
@@ -92,6 +92,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 40},
+		"greatPersonPoints": {"Great Scientist": 1}		
 		"specialistSlots": {"Scientist": 3},
 		"faith": 3,		
 		"requiredBuilding": "Library",
@@ -116,6 +117,7 @@
 		"culture": 4,
 		"production": 4,
 		"faith":4,
+		"greatPersonPoints": {"Great Artist": 3}		
 		"specialistSlots": {"Artist": 3},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
@@ -141,7 +143,7 @@
 		"replaces": "Garden",
 		"uniqueTo": "Lumine",
 		"hurryCostModifier": 25,
-		"uniques": ["[+50]% Great Person generation [in this city]"],		
+		"uniques": ["[+50]% Great Person generation [in this city]", "Gain a free [Armory] [in this city]"],		
 		"happiness": 1,
 		"culture": 1,
 		"production": 1,
