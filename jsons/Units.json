@@ -170,7 +170,25 @@
 		"requiredResource": "Iron",		
 		"upgradesTo": "Musketman",
 		"attackSound": "nonmetalhit"
-	}
+	},
+	{
+		"name": "Fortuna",
+		"unitType": "Ranged Water",
+		"replaces": "Frigate",
+		"uniqueTo": "Fontaine",
+		"movement": 5,
+		"strength": 40,
+		"rangedStrength": 28,
+		"cost": 185,
+		"requiredResource": "Iron",
+		"uniques": ["[+1] Sight"],
+		"promotions": ["Extended Range"],		
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
+	}	
 	
 ]
 
