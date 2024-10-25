@@ -116,6 +116,7 @@
 		"uniqueTo": "Fontaine",
 		"culture": 4,
 		"production": 4,
+		"happiness": 2,		
 		"faith":4,
 		"greatPersonPoints": {"Great Artist": 3}		
 		"specialistSlots": {"Artist": 3},
